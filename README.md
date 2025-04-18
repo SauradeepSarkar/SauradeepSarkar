@@ -41,20 +41,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://dev.to/feed/sauradeep_sarkar_f3305717, https://medium.com/feed/@sauradeepsarkar98, https://media.rss.com/hello-world-i-m-sauradeep-sarkar/feed.xml"
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
