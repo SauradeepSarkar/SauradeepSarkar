@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SauradeepSarkar](https://github.com/SauradeepSarkar)
 
-- 📝 I regularly write articles on [blog link](blog link)
+- 📝 I regularly write articles on [https://media.rss.com/hello-world-i-m-sauradeep-sarkar/feed.xml](https://media.rss.com/hello-world-i-m-sauradeep-sarkar/feed.xml)
 
 - 💬 Ask me about **AI/ML, Android Studio, Python, Databases**
 
