@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sauradeepsarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sauradeepsarkar" height="30" width="40" /></a>
+<a href="https://twitter.com/@sauradeepsarkar19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sauradeepsarkar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in//sauradeep-sarkar-a57b18207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sauradeep sarkar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sauradeepsarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sauradeepsarkar" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sauradeepsarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sauradeepsarkar" height="30" width="40" /></a>
