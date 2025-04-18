@@ -30,9 +30,9 @@
 ## 💫 Github Stats
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SauradeepSarkar&theme=juicyfresh" alt="SauradeepSarkar" /></a> </p>
-<img src="https://leetcard.jacoblin.cool/SOUMABHA_SAHA?ext=heatmap">
+<img src="https://leetcard.jacoblin.cool/SauradeepSarkar?ext=heatmap">
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumabhaSaha15&theme=github-dark&true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SauradeepSarkar&theme=github-dark&true&hide_border=true" />
 </div>
 
 <div id="header" align="center">
