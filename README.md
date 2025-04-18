@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sauradeep Sarkar</h1>
 <h3 align="center">A passionate AI/ML developer from India</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauradeepsarkar&label=Profile%20views&color=0e75b6&style=flat" alt="sauradeepsarkar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauradeepsarkar" alt="sauradeepsarkar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sauradeep19" target="blank"><img src="https://img.shields.io/twitter/follow/sauradeep19?logo=twitter&style=for-the-badge" alt="sauradeep19" /></a> </p>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔭 I’m currently working on [Women Safety AI Project](Project link)
 
 - 🌱 I’m currently learning **Docker, Kubernetes, CI/CD Pipelines, YOLOv11, GANs**
@@ -28,7 +26,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1B-6OdGJYT-DjoKBVGnlyPDUs7wT47usV/view?usp=drive_link](https://drive.google.com/file/d/1B-6OdGJYT-DjoKBVGnlyPDUs7wT47usV/view?usp=drive_link)
 
 - ⚡ Fun fact **I write code and edit videos with equal passion 😎🎥**
-
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -57,7 +54,7 @@
 <a href="https://www.hackerearth.com/@sauradeepsarkar98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sauradeepsarkar98" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sauradeepu9xj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sauradeepu9xj" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/sauradeepsarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sauradeepsarkar" height="30" width="40" /></a>
-<a href="/https://media.rss.com/hello-world-i-m-sauradeep-sarkar/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="[https://media.rss.com/hello-world-i-m-sauradeep-sarkar/feed.xml](https://media.rss.com/hello-world-i-m-sauradeep-sarkar/feed.xml)" height="30" width="40" /></a>
+<a href="/https://media.rss.com/hello-world-i-m-sauradeep-sarkar/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://media.rss.com/hello-world-i-m-sauradeep-sarkar/feed.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
