@@ -27,6 +27,8 @@
 
 - ⚡ Fun fact **I write code and edit videos with equal passion 😎🎥**
 
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
 ## 💫 Github Stats
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SauradeepSarkar&theme=juicyfresh" alt="SauradeepSarkar" /></a> </p>
@@ -38,6 +40,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 </div>
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
