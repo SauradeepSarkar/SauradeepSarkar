@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauradeepsarkar&label=Profile%20views&color=0e75b6&style=flat" alt="sauradeepsarkar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauradeepsarkar" alt="sauradeepsarkar" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sauradeep19" target="blank"><img src="https://img.shields.io/twitter/follow/sauradeep19?logo=twitter&style=for-the-badge" alt="sauradeep19" /></a> </p>
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on [Women Safety AI Project](Project link)
 
@@ -27,8 +27,34 @@
 
 - ⚡ Fun fact **I write code and edit videos with equal passion 😎🎥**
 
+## 💫 Github Stats
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SauradeepSarkar&theme=juicyfresh" alt="SauradeepSarkar" /></a> </p>
+<img src="https://leetcard.jacoblin.cool/SOUMABHA_SAHA?ext=heatmap">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumabhaSaha15&theme=github-dark&true&hide_border=true" />
+</div>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
+</div>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+name: Latest blog post workflow
+on: 
+    schedule:
+        - cron: '0 * * * *'
+jobs: 
+    update-readme-with-blog: 
+        name: Update this repo's README with latest blog posts
+        runs-on: ubuntu-latest
+        steps: 
+            - uses: actions/checkout@v2
+            - uses: gautamkrishnar/blog-post-workflow@master
+              with: 
+                max_post_count: "4"
+                feed_list: "https://dev.to/feed/sauradeep_sarkar_f3305717, https://medium.com/feed/@sauradeepsarkar98, https://media.rss.com/hello-world-i-m-sauradeep-sarkar/feed.xml"
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
