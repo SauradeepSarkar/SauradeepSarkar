@@ -57,7 +57,7 @@
 <a href="https://www.hackerearth.com/@sauradeepsarkar98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sauradeepsarkar98" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sauradeepu9xj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sauradeepu9xj" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/sauradeepsarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sauradeepsarkar" height="30" width="40" /></a>
-<a href="/https://media.rss.com/hello-world-i-m-sauradeep-sarkar/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://media.rss.com/hello-world-i-m-sauradeep-sarkar/feed.xml" height="30" width="40" /></a>
+<a href="/https://media.rss.com/hello-world-i-m-sauradeep-sarkar/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="[https://media.rss.com/hello-world-i-m-sauradeep-sarkar/feed.xml](https://media.rss.com/hello-world-i-m-sauradeep-sarkar/feed.xml)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
