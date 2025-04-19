@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sauradeep Sarkar</h1>
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+;This+is+Sauradeep+Sarkar;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+
 <h3 align="center">A passionate AI/ML developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauradeepsarkar&label=Profile%20views&color=0e75b6&style=flat" alt="sauradeepsarkar" /> </p>
